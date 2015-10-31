@@ -74,14 +74,12 @@ li{
 }
 
 .col-2-3{
-	width: 110%;
-	margin-top: 0em;
+	width: 66.66%;
+	margin-top: 10px;
 }
 
 .col-1-3{
-	width: 20%;
-	margin-left: 100px;
-	margin-top: 20px;
+	width: 33.33%;
 }
 
 .grid:after{
@@ -97,7 +95,5 @@ li{
 }
 
 #Logo{
-	background: #FFC224 none repeat scroll 0% 0%;
-	font-family: Neoteric;
-	padding: 15px;
+	padding: 20px;
 }
